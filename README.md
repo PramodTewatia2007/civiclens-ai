@@ -1,4 +1,5 @@
 # CivicLens AI 🏛️
+![image alt](https://github.com/PramodTewatia2007/civiclens-ai/blob/00b1ab93378828ccd016fb7dde7f1566cd050601/Capture1.PNG)
 > **“Turn community complaints into organized, actionable evidence.”**
 
 [![CI/CD](https://github.com/PramodTewatia2007/civiclens-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/PramodTewatia2007/civiclens-ai/actions/workflows/ci.yml)
