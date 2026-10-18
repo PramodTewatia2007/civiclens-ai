@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: civiclens-ai
+    runtime: docker
+    plan: free
+    region: oregon
+    dockerfilePath: ./Dockerfile
+    healthCheckPath: /api/health
+    envVars:
+      - key: DEMO_MODE
+        value: "true"
+      - key: PORT
+        value: "8000"
